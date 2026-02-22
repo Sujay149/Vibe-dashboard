@@ -1,5 +1,10 @@
 # The Vibe Dashboard
 
+
+<img width="2732" height="1474" alt="image" src="https://github.com/user-attachments/assets/bce08442-0e60-44f6-8595-8830f0a4d838" />
+<img width="2794" height="1470" alt="image" src="https://github.com/user-attachments/assets/439a2c2b-e2c6-4c9e-949d-43e1e9f13918" />
+
+
 A full-stack product discovery dashboard built with **Next.js 14**, **Express.js**, and **MongoDB Atlas**. Features glassmorphism UI, real-time search, category filtering, and MUI icons.
 
 **Live Demo:** https://vibe-dashboard-topaz.vercel.app  
